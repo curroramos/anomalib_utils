@@ -102,4 +102,4 @@ For example:
 python tools/train.py --config anomalib/models/padim/config.yaml
 ``` 
 
-4. Sample outputs are send to `./results` folder
+4. The resulting weights and test images will be stored in `results\<ModelName>`
