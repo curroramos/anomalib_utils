@@ -12,7 +12,7 @@ Anomalib is a deep learning library that aims to collect state-of-the-art anomal
 - DFKDE
 - FastFlow
 - PatchCore
-- PADIM
+- PADIM (working)
 - STFPM
 - GANomaly
 
@@ -101,3 +101,5 @@ For example:
 ```sh
 python tools/train.py --config anomalib/models/padim/config.yaml
 ``` 
+
+4. Samples outputs are send to `./results` folder
